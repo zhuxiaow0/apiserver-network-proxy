@@ -12,7 +12,7 @@ require (
 	go.uber.org/goleak v1.2.1
 	golang.org/x/net v0.17.0
 	google.golang.org/grpc v1.54.0
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.31.0
 	k8s.io/api v0.27.4
 	k8s.io/apimachinery v0.27.4
 	k8s.io/client-go v0.27.4
